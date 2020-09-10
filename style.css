@@ -1,0 +1,32 @@
+.titre {
+  text-align: center;
+}
+
+.bloc {
+  border: 1px solid black;
+  margin-bottom: 10px;
+  padding: 10px 10px 10px 10px;
+}
+
+.requis {
+  font-weight: bold;
+}
+
+footer {
+  text-align: center;
+  margin-top: 20px;
+}
+
+footer a {
+  border: 2px solid rgb(137, 199, 238);
+  border-radius: 30px;
+  padding: 5px;
+  background-color: white;
+  text-decoration: none;
+  color: rgb(137, 199, 238);
+}
+
+footer a:hover {
+  background-color: rgb(137, 199, 238);
+  color: white;
+}
